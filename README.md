@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Fejd.
+- 🌱 I’m currently learning backend and frontend.
